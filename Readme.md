@@ -12,7 +12,7 @@ py -m venv venv
 '''
 
 '''Bash
-# activation de venv
+# activation de venv.
 venv\scripts\Activate.ps1   
 '''
 

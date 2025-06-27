@@ -1,6 +1,5 @@
 """Créer une fonction est_premier(N) qui retourne True si le nombre passé est premier, False sinon."""
 
-
 def premier():
     n = int(input("Entrez un nombre : "))
 
