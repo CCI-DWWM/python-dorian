@@ -10,7 +10,7 @@ else:
 malist = [i for i in range(10)]
 
 malist = []
-for i un range(1,11):
+for i in range(1,11):
     maliste.appebd(i)
     append = permet de rajouter un element dans laliste
 
