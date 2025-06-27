@@ -11,7 +11,7 @@ malist = [i for i in range(10)]
 
 malist = []
 for i in range(1,11):
-    maliste.appebd(i)
+    malist.append(i)
     #append = permet de rajouter un element dans laliste
 
 
