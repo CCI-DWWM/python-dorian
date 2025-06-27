@@ -12,7 +12,7 @@ malist = [i for i in range(10)]
 malist = []
 for i in range(1,11):
     maliste.appebd(i)
-    append = permet de rajouter un element dans laliste
+    #append = permet de rajouter un element dans laliste
 
 
 [i for i in "Hello, world" if i>'l']

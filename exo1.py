@@ -1,14 +1,15 @@
+"""Créer une fonction est_premier(N) qui retourne True si le nombre passé est premier, False sinon
+Ex:
+est_premier(50) # False
+est_premier(17) # True
+est_premier(1000000000000000) # False
+est_premier(9576890767) # True
+est_premier(95647806479275528135733781266203904794419563064407)
 """
-Exercice :
-Demandez à l’utilisateur de saisir son PRENOM, puis son NOM, et enfin,
-son année de naissance
-Afficher « Bonjour PRENOM NOM, vous avez XX ans. »
-"""
 
-nom = input('Entrez votre Nom : ')
-prenom = input('Entrez votre Prenom : ')
-Age = int(input('Entrez votre Age : '))
-
-Age = 2025 - Age
-
-print(f"Bonjour {nom} {prenom}, vous êtes née en {Age}")
+def est_premier(N):
+    """
+    Test si le nombre est premier de manière très simple...
+    :param N: le nombre à tester
+    :return: true si nbrepremier, False sinon
+    """
