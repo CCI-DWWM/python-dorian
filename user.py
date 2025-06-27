@@ -1,4 +1,4 @@
-import prime
+import user
 
 def est_premier(n):
     if n <= 1:
